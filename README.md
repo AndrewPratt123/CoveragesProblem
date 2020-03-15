@@ -3,14 +3,14 @@ Submission of the Coverages code test
 
 package com.andrewprattjava;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.stream.Collectors;
+	import java.util.ArrayList;
+	import java.util.Arrays;
+	import java.util.Collections;
+	import java.util.Comparator;
+	import java.util.List;
+	import java.util.stream.Collectors;
 
-public class Cov {
+	public class Cov {
 
 	private final int eff;
 	private final int term;
@@ -49,5 +49,5 @@ public class Cov {
 		}
 
 		System.out.println(maxLen); // prints: 151
+		}
 	}
-}
