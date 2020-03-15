@@ -1,7 +1,7 @@
 # CoveragesProblem
 Submission of the Coverages code test
 
-package com.andrewprattjava;
+	package com.andrewprattjava;
 
 	import java.util.ArrayList;
 	import java.util.Arrays;
